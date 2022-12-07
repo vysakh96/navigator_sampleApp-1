@@ -59,7 +59,7 @@ class _NavSampleState extends State<NavSample> {
                 child: Text('Log In',style: TextStyle(color: Colors.white),),
                 ),
                   ),
-                SizedBox(height: 20,),
+                SizedBox(height: 21,),
                 Text('Forgot Password'),
               ],
             ),
